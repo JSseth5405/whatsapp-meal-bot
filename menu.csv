@@ -1,0 +1,10 @@
+
+menu_date,meal,dish,is_veg,allergens
+2025-09-14,breakfast,Upma,true,gluten
+2025-09-14,breakfast,Poha,true,
+2025-09-14,lunch,Paneer Butter Masala,true,dairy
+2025-09-14,lunch,Jeera Rice,true,
+2025-09-14,dinner,Chole Bhature,true,gluten
+2025-09-15,breakfast,Masala Dosa,true,gluten
+2025-09-15,lunch,Chicken Curry,false,
+2025-09-15,dinner,Veg Pulao,true,

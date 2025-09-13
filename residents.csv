@@ -1,0 +1,5 @@
+
+unit_no,name,phone,dietary_pref,is_opted_in
+A-101,Ananya,919876543210,veg,true
+B-204,Rahul,919987654321,veg,true
+C-305,Meera,919912345678,mixed,true

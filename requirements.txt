@@ -1,0 +1,8 @@
+flask==3.0.0
+python-dotenv==1.0.1
+SQLAlchemy==2.0.32
+alembic==1.13.2
+apscheduler==3.10.4
+requests==2.32.3
+pytz==2024.1
+gunicorn==22.0.0
